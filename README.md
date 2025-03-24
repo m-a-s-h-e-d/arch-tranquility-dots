@@ -14,3 +14,4 @@ This is an ongoing work-in-progress for the dotfiles of my daily driver Arch mac
 - [ ] Theme customizer
 - [ ] Switch to and rice Waybar
 - [ ] Setup cheatsheet keybinds
+- [ ] Create install script
