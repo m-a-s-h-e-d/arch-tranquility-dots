@@ -11,6 +11,6 @@ This is an ongoing work-in-progress for the dotfiles of my daily driver Arch mac
 **Wallpaper**: swww
 
 ## To-Do
-[] Theme customizer
-[] Switch to and rice Waybar
-[] Setup cheatsheet keybinds
+- [ ] Theme customizer
+- [ ] Switch to and rice Waybar
+- [ ] Setup cheatsheet keybinds
