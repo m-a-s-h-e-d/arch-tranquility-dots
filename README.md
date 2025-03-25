@@ -3,6 +3,7 @@ This is an ongoing work-in-progress for the dotfiles of my daily driver Arch mac
 
 ## Tools
 - **WM**: Hyprland (specifically `hyprland-git`)
+- **Lock Screen**: Hyprlock
 - **Panel**: Hyprpanel
 - **Shell**: zsh
 - **Terminal**: kitty
