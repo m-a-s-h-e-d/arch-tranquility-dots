@@ -1,0 +1,12 @@
+[Default Applications]
+x-scheme-handler/discord=vesktop.desktop
+text/plain=code-oss.desktop
+x-scheme-handler/postman=Postman.desktop
+
+[Added Associations]
+text/plain=code-oss.desktop;
+application/x-shellscript=kitty-open.desktop;code-oss.desktop;
+application/gzip=code-oss.desktop;
+application/zip=xarchiver.desktop;
+application/json=code-oss.desktop;
+application/vnd.microsoft.portable-executable=wine.desktop;
