@@ -1,5 +1,5 @@
 # arch-tranquility-dots
-This is an ongoing work-in-progress for the dotfiles of my daily driver Arch machine
+This is an ongoing work-in-progress for the dotfiles of my Arch daily driver.
 
 ## Tools
 - **WM**: Hyprland (specifically `hyprland-git`)
@@ -9,7 +9,7 @@ This is an ongoing work-in-progress for the dotfiles of my daily driver Arch mac
 - **Terminal**: kitty
 - **Launcher**: Walker
 - **File Manager**: yazi + Thunar
-- **Wallpaper**: swww
+- **Wallpaper**: swww w/ waypaper-engine
 
 ## To-Do
 - [ ] Theme customizer
