@@ -9,7 +9,7 @@ This is an ongoing work-in-progress for the dotfiles of my Arch daily driver.
 - **Terminal**: kitty
 - **Launcher**: Walker
 - **File Manager**: yazi + Thunar
-- **Wallpaper**: swww w/ waypaper-engine
+- **Wallpaper**: swww + waypaper-engine
 
 ## To-Do
 - [ ] Theme customizer
