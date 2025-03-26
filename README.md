@@ -1,5 +1,5 @@
 # arch-tranquility-dots
-This is an ongoing work-in-progress for the dotfiles of my Arch daily driver.
+This is an ongoing work-in-progress for the dotfiles of my Arch daily driver.<br/>
 Infrequently updated, definitely always before do system wide package updates.
 
 ## Tools
