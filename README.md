@@ -10,35 +10,35 @@ Infrequently updated, definitely always before do system wide package updates.
       <th>Program</th>
     </tr>
     <tr>
-      <td>Window Manager 🗔</td>
+      <td>🖥️ | Window Manager</td>
       <td><a href="https://github.com/hyprwm/Hyprland">Hyprland</a></td>
     </tr>
     <tr>
-      <td>Lock Screen 🔒</td>
+      <td>🔒 | Lock Screen</td>
       <td><a href="https://github.com/hyprwm/hyprlock">Hyprlock</a></td>
     </tr>
     <tr>
-      <td>Bar 📶</td>
+      <td>📶 | Bar</td>
       <td><a href="https://github.com/Alexays/Waybar">Waybar</a></td>
     </tr>
     <tr>
-      <td>Launcher 🚀</td>
+      <td>🚀 | Launcher</td>
       <td><a href="https://github.com/abenz1267/walker">Walker</a></td>
     </tr>
     <tr>
-      <td>Terminal 🧑‍💻</td>
+      <td>🧑‍💻 | Terminal</td>
       <td><a href="https://github.com/kovidgoyal/kitty">Kitty</a></td>
     </tr>
     <tr>
-      <td>File Manager 📁</td>
+      <td>📁 | File Manager</td>
       <td><a href="https://github.com/sxyazi/yazi">yazi</a> + <a href="https://github.com/dfmgr/Thunar">Thunar</a></td>
     </tr>
     <tr>
-      <td>System Info ℹ️</td>
+      <td>ℹ️ | System Info</td>
       <td><a href="https://github.com/fastfetch-cli/fastfetch">fastfetch</a></td>
     </tr>
     <tr>
-      <td>Wallpaper 🎨</td>
+      <td>🎨 | Wallpaper</td>
       <td><a href="https://github.com/LGFae/swww">swww</a> + <a href="https://github.com/0bCdian/Waypaper-Engine">waypaper-engine</a></td>
     </tr>
   </table>
